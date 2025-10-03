@@ -3,7 +3,7 @@
 # FILENAME: similarity.py
 # SPECIFICATION: This program calculates the cosine similarity between text documents.
 # FOR: CS 5990 (Advanced Data Mining) - Assignment #1
-# TIME SPENT: 
+# TIME SPENT: 20 minutes
 # -----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy or pandas.
